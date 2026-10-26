@@ -1,0 +1,6 @@
+{
+  "name": "R.A.S Stone - CNC Stone Carving & Design Studio",
+  "description": "Exclusive architectural 3D stone carving, CNC marble bas-reliefs, jaali lattices, custom engraving designs, order tracking, and online stone manufacturing portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
